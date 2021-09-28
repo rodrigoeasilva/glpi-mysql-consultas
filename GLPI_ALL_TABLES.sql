@@ -1,0 +1,14 @@
+show databases;
+use glpi;
+show tables;
+#show columns from `glpi`;
+#DESC glpi_itilcategories;
+#desc glpi_ticketrecurrents;
+#desc glpi_changes_tickets;
+#desc glpi_tickets;
+#desc glpi_tickets_users;
+#desc glpi_groups;
+#desc glpi_users;
+#desc glpi_groups_tickets;
+#desc glpi_groups_users;
+#desc glpi_tickets_tickets;
